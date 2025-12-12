@@ -1,0 +1,72 @@
+[
+    {
+        "nama": "Servatius Hasta Kristanto",
+        "nim": "241011400076",
+        "jurusan": "Teknik Informatika (S1)",
+        "ipk": 4.0,
+        "timestamp": "11 Dec 2025, 22:57"
+    },
+    {
+        "nama": "Nagisa Shiota",
+        "nim": "241011400001",
+        "jurusan": "Teknik Informatika (S1)",
+        "ipk": 3.99,
+        "timestamp": "11 Dec 2025, 22:58"
+    },
+    {
+        "nama": "Llyod de Saloum",
+        "nim": "241011400002",
+        "jurusan": "Sistem Informasi (S1)",
+        "ipk": 3.76,
+        "timestamp": "11 Dec 2025, 23:32"
+    },
+    {
+        "nama": "Mikoto Yuzuki",
+        "nim": "241011400003",
+        "jurusan": "Manajemen (S1)",
+        "ipk": 3.42,
+        "timestamp": "11 Dec 2025, 23:33"
+    },
+    {
+        "nama": "Minato Yuzuki ",
+        "nim": "241011400004",
+        "jurusan": "Akuntansi (S1)",
+        "ipk": 2.87,
+        "timestamp": "11 Dec 2025, 23:33"
+    },
+    {
+        "nama": "Gakuto Yuzuki ",
+        "nim": "241011400005",
+        "jurusan": "Ilmu Hukum (S1)",
+        "ipk": 3.89,
+        "timestamp": "11 Dec 2025, 23:33"
+    },
+    {
+        "nama": "Yuuto Sakurai ",
+        "nim": "241011400006",
+        "jurusan": "Pendidikan Bahasa Inggris (S1)",
+        "ipk": 3.62,
+        "timestamp": "11 Dec 2025, 23:34"
+    },
+    {
+        "nama": "Ryuuji ",
+        "nim": "241011400007",
+        "jurusan": "Pendidikan Matematika (S1)",
+        "ipk": 3.74,
+        "timestamp": "11 Dec 2025, 23:34"
+    },
+    {
+        "nama": "Cain von Silford",
+        "nim": "241011400008",
+        "jurusan": "Pendidikan Pancasila dan Kewarganegaraan (S1)",
+        "ipk": 3.79,
+        "timestamp": "11 Dec 2025, 23:35"
+    },
+    {
+        "nama": "Nasa Yuzaki",
+        "nim": "241011400009",
+        "jurusan": "Sistem Informasi (S1)",
+        "ipk": 3.89,
+        "timestamp": "11 Dec 2025, 23:36"
+    }
+]
